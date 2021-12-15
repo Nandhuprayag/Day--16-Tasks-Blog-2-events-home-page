@@ -1,0 +1,29 @@
+.Box-part{
+    border: 2px solid black;margin: 5px 0px;padding-top: 7px;padding-bottom: 7px;padding-left: 20px;
+    padding-right: 30px;
+}
+#footer{text-align: center;border: 1px solid black;}
+
+.Box{
+    padding: 40px 150px;
+}
+.Box-part-inner
+{
+    border: 1px solid black;display: flex;flex-wrap: nowrap;justify-content: end;
+
+}
+.heading
+{
+    text-align: center;
+}
+
+.text-left{
+    padding-right: 10px;padding-left: 10px;padding-top: 10px;
+}
+
+.container{
+    border: 3px solid black;margin: 20px 20px;padding: 30px 20px;
+}
+h2{
+    text-align: center;background-color: burlywood;
+}
